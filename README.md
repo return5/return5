@@ -2,10 +2,9 @@
   - I am a Java developer by trade, spring-boot micro services, SQL databases, and Javascript.  
   - Outside work I prefer Lua for game making and scripts. Bash is also fine too.
   - If you dont love C then you arnt a real programmer.
-  - Vim and Linux or go home. 
+  - Vim and Linux or go home.
 
-[![return5's GitHub stats](https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true" />
 </a>
