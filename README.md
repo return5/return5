@@ -1,4 +1,4 @@
-[![return5's GitHub stats](https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![return5's GitHub stats](https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
