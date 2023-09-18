@@ -6,13 +6,13 @@
 
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=return5&theme=transparent&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" />  
 </a>  
 
-</br>
+
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/arduino/arduino.png"></code>
 <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/c/c.png"></code>
