@@ -6,12 +6,13 @@
 <p>
   <br />
 </p>
-- 🔭 I’m currently working on ...
-  -   simple 2D games using Lua and Love2D.
-- 💬 Ask me about ...
-  -   anything you want to, I'm happy to answer anything i can.
-- 👯 I’m looking to collaborate on ...
-  - any FOSS Lua project you think i might be able to help with. 
+  
+  - 🔭 I’m currently working on ...
+    -   simple 2D games using Lua and Love2D.
+  - 💬 Ask me about ...
+    -   anything you want to, I'm happy to answer anything i can.
+  - 👯 I’m looking to collaborate on ...
+    -  any FOSS Lua project you think i might be able to help with. 
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
