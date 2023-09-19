@@ -2,13 +2,12 @@
   - I am a Java developer by trade, spring-boot micro services, SQL databases, and Javascript.  
   - Outside work, I prefer Lua for game making and scripts. Bash scripting is fine too.
   - If you dont love C then you arnt a real programmer.
-  - Vim and Linux or go home.
+  - Vim and Linux or go home.    
 
-    
 - 🔭 I’m currently working on ...
   -   simple 2D games using Lua and Love2D.
 - 💬 Ask me about ...
-  -   anything you want to, I'm happy to answer anyhting i can.
+  -   anything you want to, I'm happy to answer anything i can.
 - 👯 I’m looking to collaborate on ...
   - any FOSS Lua project you think i might be able to help with. 
 <p>
