@@ -4,7 +4,7 @@
   - If you dont love C then you arnt a real programmer.
   - Vim and Linux or go home.    
 <p>
-  <br />
+ 
 </p>
   
   - 🔭 I’m currently working on ...
