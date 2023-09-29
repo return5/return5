@@ -15,11 +15,10 @@
     -  any FOSS Lua project you think i might be able to help with. 
 
 
-<div align="center">
-  <p align="center">
-    <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" height="170" />    
-      <img src="https://github-readme-stats.vercel.app/api?username=return5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="170" />
+<div align="left">
+  <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" height="2000" />    
+      <img src="https://github-readme-stats.vercel.app/api?username=return5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="2000" />
   </p>
 </div>
 
