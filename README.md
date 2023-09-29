@@ -17,8 +17,8 @@
 
 <div align="left">
   <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" height="2000" />    
-      <img src="https://github-readme-stats.vercel.app/api?username=return5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="2000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" height="200" />    
+      <img src="https://github-readme-stats.vercel.app/api?username=return5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="200" />
   </p>
 </div>
 
