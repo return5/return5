@@ -14,9 +14,10 @@
   - 👯 I’m looking to collaborate on ...
     -  any FOSS Lua project you think i might be able to help with. 
 
-<br />
+
 <div align="center">
   <p align="center">
+    <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=return5&layout=donut-vertical&theme=transparent&show_icons=true" height="310" />    
       <img src="https://github-readme-stats.vercel.app/api?username=return5&show_icons=true&theme=github_dark" alt="GitHub Stats" height="310" />
   </p>
