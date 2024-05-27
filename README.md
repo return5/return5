@@ -37,7 +37,13 @@
 
 
 
+<p> <br /> if you have enjoyed or gotten any value from any of my works, you can show thanks and support by donating in memory of Terry A. Davis at either: <br />
+  <a href="https://bbrfoundation.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&participantID=8191">Brain And Behavior Research Foundation</a> <br />
+  or <br />
+  <a href="https://www.nami.org/">National Alliance of Mental Illness</a> <br />
 
+  thank you so much. 
+</p>
 
 <!--
 **return5/return5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
