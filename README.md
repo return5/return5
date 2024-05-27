@@ -1,5 +1,5 @@
 ## hello, I am return5
-  - I am a Java developer by trade, spring-boot micro services, SQL databases, and Javascript.  
+  - I am a Java developer by trade, spring-boot micro services, SQL databases, and Javascript. currently workign with React + Typescript.
   - Outside work, I prefer Lua for game making and scripts. Bash scripting is fine too.
   - If you dont love C then you arnt a real programmer.
   - Vim and Linux or go home.    
