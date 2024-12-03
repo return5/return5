@@ -1,5 +1,5 @@
 ## hello, I am return5
-  - I am a Java developer by trade, spring-boot micro services, SQL databases, and Javascript. currently workign with React + Typescript.
+  - PRofessionally I am currently working with React + Typescript. previous experience with java micro services, javascript, and SQL databases. 
   - Outside work, I prefer Lua for game making and scripts. Bash scripting is fine too.
   - If you dont love C then you arnt a real programmer.
   - Vim and Linux or go home.    
@@ -33,6 +33,7 @@
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/spring-boot/spring-boot.png"></code>
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/sql/sql.png"></code>
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/vim/vim.png"></code>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
 </p>
 
 
