@@ -33,7 +33,10 @@
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/spring-boot/spring-boot.png"></code>
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/sql/sql.png"></code>
   <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/vim/vim.png"></code>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+  <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/typescript/typescript.png"></code>
+  <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/github/explore/5b295c16dcc3f1755af48f5b9dc1a7bca7381594/topics/react/react.png"></code>
+
+  
 </p>
 
 
