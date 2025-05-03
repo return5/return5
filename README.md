@@ -1,5 +1,5 @@
 ## hello, I am return5
-  - Professionally I am currently working with React + Typescript. previous experience with java micro services, javascript, and SQL databases. 
+  - I have Professional experence working with React + Typescript, java micro services, javascript, and SQL databases. 
   - Outside work, I prefer Lua for game making and scripts. Bash scripting is fine too.
   - If you dont love C then you arnt a real programmer.
   - Vim and Linux or go home.    
